@@ -4,7 +4,7 @@ STEP 1: Click on the Folder that you would like to browse. Each Folder is labele
 
 STEP 2: Click on the file you would like to view.
 
-STEP 3: If you wish to download a specific file, you must first be viewing the file first, then click the 3 dots (...) towards the top right of the screen above the word HISTORY with a clock logo and below the word STAR with a STAR logo. Click Download
+STEP 3: If you wish to download a specific file, you must first be viewing the file, then click the 3 dots (...) towards the top right of the screen above the word HISTORY with a clock logo and below the word STAR with a STAR logo. Click Download
 
 To go back, you can either click the file name near the middle of the screen BlountCoPostOffices/[FILENAME]    or you can click on the file name on the left side of your screen
 
